@@ -1,0 +1,53 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875em;
+  }
+
+  .bg-light {
+    background-color: #E3EDF2 !important;
+  }
+
+  .bg-info {
+    background-color: #9FC9DD !important;
+  }
+
+  .alert-success {
+    color: #ffffff;
+    background-color: #00c5d4;
+    border-color: #00c5d4;
+}
+
+  .texto1 {
+    font-size: .9em;
+    letter-spacing: 0.5;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 2em;
+  }
+
+  table {
+    font-size: .8em;
+  }
+
+  small {
+    font-size: .65em;
+    text-decoration: none;
+    font-style: italic;
+    line-height: 10pt;
+  }
+
+  .btn-success{
+    color: #fff;
+    background-color: #24b6c3 !important;
+    border: 1px solid #24b6c3 !important;
+  }
+  .btn-success:hover{
+    color: #fff;
+    background-color: #2aa9b5 !important;
+    border: 1px solid #2aa9b5 !important;
+  }
+  .btn-success:active{
+    color: #fff;
+    background-color: #2596a0 !important;
+    border: 1px solid #2596a0 !important;
+  }
